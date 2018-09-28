@@ -1,0 +1,6 @@
+https://simpleisbetterthancomplex.com/series/2017/09/04/a-complete-beginners-guide-to-django-part-1.html
+https://simpleisbetterthancomplex.com/series/2017/09/18/a-complete-beginners-guide-to-django-part-3.html
+https://github.com/fluentpython
+http://1.droppdf.com/files/X06AR/fluent-python-2015-.pdf
+https://simpleisbetterthancomplex.com/tutorial/
+https://simpleisbetterthancomplex.com/tutorial/2016/05/11/how-to-setup-ssl-certificate-on-nginx-for-django-application.html
