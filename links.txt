@@ -1,5 +1,9 @@
 https://simpleisbetterthancomplex.com/series/2017/09/04/a-complete-beginners-guide-to-django-part-1.html
 https://simpleisbetterthancomplex.com/series/2017/09/18/a-complete-beginners-guide-to-django-part-3.html
+
+# TODO: Left at
+Time to write some tests! Edit the tests.py file and add the following tests in the bottom of the file:
+
 https://github.com/fluentpython
 http://1.droppdf.com/files/X06AR/fluent-python-2015-.pdf
 https://simpleisbetterthancomplex.com/tutorial/
